@@ -1,16 +1,37 @@
-## Hi there 👋
+```
+██╗  ██╗██████╗ ██╗███████╗██╗  ██╗           
+██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║           
+█████╔╝ ██████╔╝██║███████╗███████║           
+██╔═██╗ ██╔══██╗██║╚════██║██╔══██║           
+██║  ██╗██║  ██║██║███████║██║  ██║           
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝           
+                                              
+███╗   ███╗██╗███████╗██╗  ██╗██████╗  █████╗ 
+████╗ ████║██║██╔════╝██║  ██║██╔══██╗██╔══██╗
+██╔████╔██║██║███████╗███████║██████╔╝███████║
+██║╚██╔╝██║██║╚════██║██╔══██║██╔══██╗██╔══██║
+██║ ╚═╝ ██║██║███████║██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                                            
+```
 
-<!--
-**krysh420/krysh420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  [ 0xCyber Sentinel ]
 
-Here are some ideas to get you started:
+##  [ 🛠 Current Arsenal ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 **Cyber Warfare:** Red Team | Blue Team | All the Teams  
+⚡ **Operating Systems:** Windows | Linux (But let’s be real, no Arch)  
+🔧 **Code Craft:** Python | C++ | Tools of the Trade  
+🚀 **Infrastructure:** Containers | VMs | The Digital Fortress  
+
+##  [ 📡 Upgrading Systems ]
+
+🧠 **Intelligence:** Machine Learning | SIEM Mastery  
+🔍 **OS Internals:** Windows API | Linux API | Deep Dive  
+🕵 **Artifact Analysis:** Digital Forensics | Unraveling the Secrets  
+
+##  [ 🌎 Connect via the Network ]
+
+🔗 **GitHub:** [krysh420](https://github.com/krysh420)  
+🖥 **LinkedIn:** [Krish Mishra](https://www.linkedin.com/in/krish-mishra-a9410917b/)  
+
+//  [ End Transmission ]  
