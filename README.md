@@ -19,7 +19,7 @@
 ##  [ 🛠 Current Arsenal ]
 
 🔥 **Cyber Warfare:** Red Team | Blue Team | All the Teams  
-⚡ **Operating Systems:** Windows | Linux (But let’s be real, no Arch)  
+⚡ **Operating Systems:** Windows | Linux (NOT Arch btw)  
 🔧 **Code Craft:** Python | C++ | Tools of the Trade  
 🚀 **Infrastructure:** Containers | VMs | The Digital Fortress  
 
