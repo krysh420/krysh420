@@ -26,7 +26,7 @@
 ##  [ 📡 Upgrading Systems ]
 
 🧠 **Intelligence:** Machine Learning | SIEM Mastery  
-🔍 **OS Internals:** Windows API | Linux API | Deep Dive  
+🔍 **OS Internals:** Windows API | Linux Syscalls | Deep Dive  
 🕵 **Artifact Analysis:** Digital Forensics | Unraveling the Secrets  
 
 ##  [ 🌎 Connect via the Network ]
