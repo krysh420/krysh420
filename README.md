@@ -20,14 +20,14 @@
 
 🔥 **Cyber Warfare:** Red Team | Blue Team | All the Teams  
 ⚡ **Operating Systems:** Windows | Linux (Arch btw)  
-🔧 **Code Craft:** Python | C++ | Tools of the Trade  
-🚀 **Infrastructure:** Containers | VMs | The Digital Fortress  
+🔧 **Code Craft:** Python | C++ | Bash | Powershell (Basic) | Tools of the Trade  
+🚀 **Infrastructure:** Containers | VMs | VPN | The Digital Fortress  
+🔍 **OS Internals:** Windows API | Linux Syscalls  
+🕵 **Artifact Analysis:** Digital Forensics | Live Forensics
 
 ##  [ 📡 Upgrading Systems ]
 
-🧠 **Intelligence:** Machine Learning | SIEM Mastery  
-🔍 **OS Internals:** Windows API | Linux Syscalls | Deep Dive  
-🕵 **Artifact Analysis:** Digital Forensics | Unraveling the Secrets  
+☁️ **Cloud:** AWS
 
 ##  [ 🌎 Connect via the Network ]
 
